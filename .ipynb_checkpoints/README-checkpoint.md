@@ -23,7 +23,7 @@ chapter04
     4.2 don't abuse the blank line.
     4.3 don't place more than two lines between two sections
 
-chapter05
+chapter05 if statements
 use if-elif-else chain 
 element in or not in a list
 if list 
