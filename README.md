@@ -9,3 +9,7 @@ conda install jupyter
 
 jupyter notebook
 
+git add 
+git commit -m 'description message'
+git push
+
