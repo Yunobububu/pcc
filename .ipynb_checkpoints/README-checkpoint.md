@@ -24,10 +24,23 @@ chapter04
     4.3 don't place more than two lines between two sections
 
 chapter05 if statements
+
 use if-elif-else chain 
 element in or not in a list
 if list 
     return True is more than one element in the list
+    
+chapter06 dictionaries
+
+1.dictionary contains key-valus pairs using {}
+2.using dict.keys() to find all keys. dict.values() to get all values.
+3.using  key, value in dict.items() to get key-value pairs.
+4.dict['key'] to get the value
+5.dict['newKey'] = newValue to add the new key-value pair.
+6.del dict['key'] to remove.
+
+
+
 
 
 
