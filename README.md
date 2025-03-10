@@ -46,6 +46,31 @@ chapter07 while loops
 4. use break to end while loop
 5. use while loop with list,dictionary.
 
+chapter08 functions
+
+1. def function_name(arguement):
+       """docstrings"""
+       return
+
+   def function_name(arguement0,arguement1='default'):
+       """function with default value"""
+       return
+    
+   def function_name(arguement, *kwg):
+       """functions with unkonwn arguements"""
+       return
+
+   def function_name(arguement,**kwg):
+       """functions with unknows key-value pairs"""
+       return 
+
+2. module
+   import module_name as mn
+
+   from moudule_name import func_name as fn
+
+   from module_name import *
+
 
 
 
