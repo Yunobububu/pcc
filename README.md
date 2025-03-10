@@ -39,6 +39,12 @@ chapter06 dictionaries
 5.dict['newKey'] = newValue to add the new key-value pair.
 6.del dict['key'] to remove.
 
+chapter07 while loops
+1. use input() function to allow users to provide information
+2. use while loops to run until when you want to end.
+3. use flag to end while loop
+4. use break to end while loop
+5. use while loop with list,dictionary.
 
 
 
